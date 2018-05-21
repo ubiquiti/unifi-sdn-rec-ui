@@ -2,6 +2,8 @@
 
 ### Simple Wi-Fi coverage simulator
 
+Create simple web application.
+
 #### Requirements
 * create public project on GitHub
 * generate JS SPA with one of frameworks:
