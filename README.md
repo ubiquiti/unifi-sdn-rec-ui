@@ -6,12 +6,10 @@ Create simple web application.
 
 #### Requirements
 * create public project on GitHub
-* generate JS SPA with one of frameworks:
-  * AngularJS
-  * Angular
-  * React
+  * add README
+  * one command to build/deploy/run project
 * follow [design](design.png) as close a possible
-  
+* use `React` framework
 
 #### Application
 * add 'Coverage Simulator' page with two panels:
