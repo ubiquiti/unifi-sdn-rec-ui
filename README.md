@@ -1,6 +1,8 @@
-# Simple Wi-Fi coverage simulator
+# UniFi SDN Recruitment assigment - Frontend Engineer
 
-## Requirements
+### Simple Wi-Fi coverage simulator
+
+#### Requirements
 * create public project on GitHub
 * generate JS SPA with one of frameworks:
   * AngularJS
@@ -9,7 +11,7 @@
 * follow [design](design.png) as close a possible
   
 
-## Application
+#### Application
 * add 'Coverage Simulator' page with two panels:
   * right panel has constant width
   * left panel adapts to screen size
@@ -41,5 +43,5 @@
     * client (receiver) has antenna with 1dBm gain
 
 
-## Design
+#### Design
 ![design](design.png)
