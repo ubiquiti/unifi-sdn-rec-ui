@@ -5,7 +5,7 @@
 Create simple web application.
 
 #### Requirements
-* create public project on GitHub with README
+* create public project on GitHub with README (do not fork project)
 * one command to build/deploy/run project
 * follow [design](design.png) as close a possible
 * use `React` (preffered) or any other SPA framework (with short note why this one)
